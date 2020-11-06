@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dinama Karya</string>
+    <string name="app_version">Version 0.0.1</string>
+    <string name="brizzi">BRI Brizzi</string>
+    <string name="tapcash">BNI Tapcash</string>
+    <string name="emoney">Mandiri e-money</string>
+</resources>
